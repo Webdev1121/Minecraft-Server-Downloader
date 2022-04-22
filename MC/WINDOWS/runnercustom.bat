@@ -1,0 +1,1 @@
+java -Xmx[change this to your server ram, for example 8192M]M -Xms[change this to your server ram, for example 8192M]M -jar server.jar
