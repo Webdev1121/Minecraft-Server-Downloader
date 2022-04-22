@@ -1,0 +1,1 @@
+java -Xmx<ram server lu>M -Xms<ram server lu>M -jar server.jar
