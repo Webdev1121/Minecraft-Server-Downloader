@@ -25,7 +25,7 @@
 
 *JIKA Lebih dari 4GB, Klik kanan runnercustom.bat lalu klik edit, lalu ketik :*
 
-java -Xmx<ram server lu>M -Xms,<ram server lu>M -jar server.jar
+java -Xmx[Ukuran Ram Server Anda]M -Xms,[Ukuran Ram Server Anda]M -jar server.jar
 
 **Untuk mengrun Server Minecraft : (untuk User 2GB + 4GB)**
 
