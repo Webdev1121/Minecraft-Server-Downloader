@@ -15,6 +15,10 @@
 
 **-Buka folder MC**
 
+**-Jika anda menggunakan windows, masuk folder WINDOWS, jika anda menggunakan Linux, masuk folder LINUX**
+
+**UNTUK WINDOWS USER**
+
 **-Buka Minecraft Server Downloader.bat**
 
 **-Ketik 1**
@@ -36,6 +40,14 @@ java -Xmx[Ukuran Ram Server Anda]M -Xms,[Ukuran Ram Server Anda]M -jar server.ja
 
 **-Silahkan Ketik 1 Jika Server Anda Mempunyai 2GB, 2 Jika Server Anda Mempunyai 4GB, Atau Mempunyai RAM lebih 4GB,Ketik C**
   
+**LINUX**
+**-Ketik bash downloader.sh**
+
+**-Tunggu hingga selesai**
+
+**-Ketik bash run.sh**
+
+**-Done!**
 
 # Bug Report
 
