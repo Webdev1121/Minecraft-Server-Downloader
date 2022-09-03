@@ -21,7 +21,7 @@
 - Tunggu
 - Silahkan Ketik 1 Jika Server Anda Mempunyai 2GB, 2 Jika Server Anda Mempunyai 4GB, Atau Mempunyai RAM lebih 4GB,Ketik C
 
-*JIKA Lebih dari 4GB, Klik kanan runnercustom.bat lalu klik edit, lalu ketik :*
+**JIKA Lebih dari 4GB, Klik kanan runnercustom.bat lalu klik edit, lalu ketik :**
 
 `java -Xmx[Ukuran Ram Server Anda]M -Xms,[Ukuran Ram Server Anda]M -jar server.jar`
 
@@ -33,7 +33,7 @@
 - Ketik 2
 - Silahkan Ketik 1 Jika Server Anda Mempunyai 2GB, 2 Jika Server Anda Mempunyai 4GB, Atau Mempunyai RAM lebih 4GB,Ketik C
   
-### LINUX
+### UNTUK USER LINUX
 
 - Ketik `bash downloader.sh`
 - Tunggu hingga selesai
@@ -52,5 +52,8 @@
 **Discord :**
 
 - 1121Developer#3978
+
+#### Kontributor
+- turtleion#9421
 
 
