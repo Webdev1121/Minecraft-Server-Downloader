@@ -1,8 +1,12 @@
 # Minecraft-Server-Downloader
+
+## JAR DOWNLOADER MC VERSI 1.18
+
 **Males Buka Browser Terus Download Jar Minecraft Server, SEKARANG GA PERLU LAGI!**
 
 ### Apa Saja Teknologi Yang Digunakan?
-> Alat Ini Sudah Menggunakan Teknologi cURL dan PurpurMC
+> Alat Ini Sudah Menggunakan Teknologi cURL
+> Menggunakan Software PurpurMC
 
 # Downloads
 
