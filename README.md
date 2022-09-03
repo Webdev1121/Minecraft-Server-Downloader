@@ -6,6 +6,7 @@
 
 ### Apa Saja Teknologi Yang Digunakan?
 > Alat Ini Sudah Menggunakan Teknologi cURL
+
 > Menggunakan Software PurpurMC
 
 # Downloads
