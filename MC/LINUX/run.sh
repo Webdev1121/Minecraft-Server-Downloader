@@ -1,3 +1,4 @@
+#!/bin/bash
 if [ -x /usr/bin/java ] || [ -x /sbin/java ] || [ -x /bin/bash ]; then
   java -jar server.jar nogui
 else
