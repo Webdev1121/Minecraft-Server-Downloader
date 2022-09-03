@@ -1,0 +1,11 @@
+-- INSTRUCTION --
+
+1. Make sure your linux have dos2unix tools (You can install it in your own distro's)
+2. Run this:
+    dos2unix downloader.sh
+    dos2unix run.sh
+3. After run that, you can run downloader.sh
+
+Q: Why Need To Do Extra Setup?
+W: Because this file created in windows, and automatically the file format is dos not a unix and dos file may cannot executetable on many linux
+   So we need to convert the files
