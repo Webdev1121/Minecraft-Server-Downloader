@@ -2,7 +2,7 @@
 **Males Buka Browser Terus Download Jar Minecraft Server, SEKARANG GA PERLU LAGI!**
 
 ### Apa Saja Teknologi Yang Digunakan?
-> alat Ini Menggunakan Teknologi cURL dan PurpurMC
+> Alat Ini Sudah Menggunakan Teknologi cURL dan PurpurMC
 
 # Downloads
 
@@ -39,7 +39,7 @@
 - Tunggu hingga selesai
 - Ketik `bash run.sh`
 
-**-Done!**
+**Done!**
 
 # Bug Report
 
@@ -47,13 +47,13 @@
 
 **E-mail :**
 
-- Scoobydeveloper129@Gmail.com**
+- Scoobydeveloper129@Gmail.com
 
 **Discord :**
 
 - 1121Developer#3978
 
 #### Kontributor
-- turtleion#9421
+- turtleion#9421 (Discord)
 
 
